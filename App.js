@@ -9,7 +9,7 @@ import CodePush from 'react-native-code-push';
 function HomeScreen() {
   return (
     <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-      <Text>Home Screen hererererer</Text>
+      <Text>so crazy mate</Text>
     </View>
   );
 }
